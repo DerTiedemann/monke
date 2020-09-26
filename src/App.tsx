@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import React, { useRef, useState, Suspense, useEffect } from 'react'
 import { Canvas, useFrame, useThree, MouseEvent } from 'react-three-fiber'
 import THREE, { MeshBasicMaterial, Camera } from 'three'
